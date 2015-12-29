@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM ubuntu:14.04.3
 MAINTAINER Jan Nonnen <helvalius@gmail.com>
 
 RUN apt-get update
